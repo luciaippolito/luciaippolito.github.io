@@ -1,0 +1,234 @@
+[
+  {
+    "id": 28,
+    "date": "03/04/2025",
+    "portal": "ucpel",
+    "title": "Docente da UCPel participa de eventos de cunho nacional e internacional",
+    "img": "https://ucpel.edu.br/laravel/public/storage/noticias/April2025/tO9VSPF1r2o2e4J4gBs5.jpeg",
+    "link": "https://ucpel.edu.br/noticias/docente-da-ucpel-participa-de-eventos-de-cunho-nacional-e-internacional"
+  },
+  {
+    "id": 27,
+    "date": "31/03/2025",
+    "portal": "ucpel",
+    "title": "Medicina UCPel integra o primeiro Ambulatório de Procedimentos da Atenção Primária à Saúde de Pelotas",
+    "img": "https://ucpel.edu.br/laravel/public/storage/noticias/March2025/u8Tmhwby3rq35qyyPZP9.jpeg",
+    "link": "https://ucpel.edu.br/noticias/medicina-ucpel-integra-o-primeiro-ambulatorio-de-procedimentos-da-atencao-primaria-a-saude-de-pelotas"
+  },
+  {
+    "id": 26,
+    "date": "27/02/2025",
+    "portal": "ucpel",
+    "title": "Obras do Hospital de Simulação da UCPel entram na reta final",
+    "img": "https://ucpel.edu.br/laravel/public/storage/noticias/January2025/srU85x2ryeisjtGZLiKl.JPG",
+    "link": "https://ucpel.edu.br/noticias/obras-do-hospital-de-simulacao-da-ucpel-entram-na-reta-final"
+  },
+  {
+    "id": 25,
+    "date": "13/11/2024",
+    "portal": "ucpel",
+    "title": "Curso de Engenharia Elétrica da UCPel completa 50 anos",
+    "img": "https://ucpel.edu.br/laravel/public/storage/noticias/November2024/KvS3QQ2sA3o6MjeNV9qI.jpeg",
+    "link": "https://ucpel.edu.br/noticias/curso-de-engenharia-eletrica-da-ucpel-completa-50-anos"
+  },
+  {
+    "id": 24,
+    "date": "01/11/2024",
+    "portal": "ucpel",
+    "title": "Livro “Espaços Públicos de Pelotas: desenhos e histórias” é lançado na Feira do Livro",
+    "img": "https://ucpel.edu.br/laravel/public/storage/noticias/November2024/AFz5KXP39t1EoRf75SmT.jpeg",
+    "link": "https://ucpel.edu.br/noticias/livro-espacos-publicos-de-pelotas-desenhos-e-historias-e-lancado-na-feira-do-livro"
+  },
+  {
+    "id": 23,
+    "date": "30/10/2024",
+    "portal": "ucpel",
+    "title": "Ambulatório da UCPel é referência no tratamento da doença de Psoríase",
+    "img": "https://ucpel.edu.br/laravel/public/storage/noticias/October2024/NThdBuK6Lz7Wl4DeWCb4.png",
+    "link": "https://ucpel.edu.br/noticias/ambulatorio-da-ucpel-e-referencia-no-tratamento-da-doenca-de-psoriase"
+  },
+  {
+    "id": 22,
+    "date": "15/09/2024",
+    "portal": "ucpel",
+    "title": "Alunos de Jornalismo e Publicidade e Propaganda da UCPel visitam estúdios do Grupo RBS em Pelotas",
+    "img": "https://ucpel.edu.br/laravel/public/storage/noticias/September2024/hNu2zghsfJItOQBu0YXn.png",
+    "link": "https://ucpel.edu.br/noticias/alunos-de-jornalismo-e-publicidade-e-propaganda-da-ucpel-visitam-estudios-do-grupo-rbs-em-pelotas"
+  },
+  {
+    "id": 21,
+    "date": "19/08/2024",
+    "portal": "ucpel",
+    "title": "UCPel lança 1º Edição do “UCPel Cultural: Qual É Sua Arte?”",
+    "img": "https://ucpel.edu.br/laravel/public/storage/noticias/August2024/KDgk4B3kSH0pMDu4dU2K.png",
+    "link": "https://ucpel.edu.br/noticias/ucpel-lanca-1o-edicao-do-ucpel-cultural-qual-e-sua-arte"
+  },
+  {
+    "id": 20,
+    "date": "21/05/2024",
+    "portal": "ucpel",
+    "title": "Direito da UCPel atende pessoas desabrigadas pelas enchentes",
+    "img": "https://ucpel.edu.br/laravel/public/storage/noticias/May2024/2cVcezrGlBZ7s6Ms8wsR.jpeg",
+    "link": "https://ucpel.edu.br/noticias/direito-da-ucpel-atende-pessoas-desabrigadas-pelas-enchentes"
+  },
+  {
+    "id": 19,
+    "date": "09/05/2024",
+    "portal": "ucpel",
+    "title": "Central de atendimento à saúde de forma remota acontece em laboratórios da UCPel",
+    "img": "https://ucpel.edu.br/laravel/public/storage/noticias/May2024/l2otTayXEytodNRmHex9.jpg",
+    "link": "https://ucpel.edu.br/noticias/central-de-atendimento-a-saude-de-forma-remota-acontece-em-laboratorios-da-ucpel"
+  },
+  {
+    "id": 18,
+    "date": "26/04/2024",
+    "portal": "ucpel",
+    "title": "Medicina UCPel auxilia no diagnóstico de patologias oculares",
+    "img": "https://ucpel.edu.br/laravel/public/storage/noticias/June2024/VZlciN9VjGCayi9gOxo5.jpeg",
+    "link": "https://ucpel.edu.br/noticias/medicina-ucpel-auxilia-no-diagnostico-de-patologias-oculares"
+  },
+  {
+    "id": 17,
+    "date": "02/04/2024",
+    "portal": "ucpel",
+    "title": "Centro da Criança São Luis Gonzaga recebe doação de R$ 15 mil",
+    "img": "https://ucpel.edu.br/laravel/public/storage/noticias/April2024/Nd7k2vDY8pyU5WwFiqmw.jpg",
+    "link": "https://ucpel.edu.br/noticias/centro-da-crianca-sao-luis-gonzaga-recebe-doacao-de-rdollar-15-mil"
+  },
+  {
+    "id": 16,
+    "date": "20/03/2024",
+    "portal": "ucpel",
+    "title": "UCPel celebra e fomenta a necessidade de mais mulheres na ciência",
+    "img": "https://ucpel.edu.br/laravel/public/storage/noticias/March2024/a4325FX35vt7MME18xBg.jpeg",
+    "link": "https://ucpel.edu.br/noticias/ucpel-celebra-e-fomenta-a-necessidade-de-mais-mulheres-na-ciencia"
+  },
+  {
+    "id": 15,
+    "date": "13/03/2024",
+    "portal": "ucpel",
+    "title": "Aluna de Medicina UCPel é aprovada na residência médica no Hospital Albert Einstein em São Paulo",
+    "img": "https://ucpel.edu.br/laravel/public/storage/noticias/March2024/3AJUbj6jhxxUxjA5Ofgp.jpeg",
+    "link": "https://ucpel.edu.br/noticias/aluna-de-medicina-ucpel-e-aprovada-na-residencia-medica-no-hospital-albert-einstein-em-sao-paulo"
+  },
+  {
+    "id": 14,
+    "date": "16/02/2024",
+    "portal": "ucpel",
+    "title": "Aluno com espectro autista conclui a graduação com a melhor nota da turma",
+    "img": "https://ucpel.edu.br/laravel/public/storage/noticias/February2024/BTKtMjc7NEjWLj1k3g3A.jpeg",
+    "link": "https://ucpel.edu.br/noticias/aluno-com-espectro-autista-conclui-a-graduacao-com-a-melhor-nota-da-turma"
+  },
+  {
+    "id": 13,
+    "date": "18/01/2024",
+    "portal": "ucpel",
+    "title": "HUSFP/UCPel recebe cortejo promovido pelo 12° Festival Internacional Sesc de Música",
+    "img": "https://ucpel.edu.br/laravel/public/storage/noticias/January2024/kEgZlCuYKkNTq77zEmkO.jpeg",
+    "link": "https://ucpel.edu.br/noticias/husfp-ucpel-recebe-cortejo-promovido-pelo-12-festival-internacional-sesc-de-musica"
+  },
+  {
+    "id": 12,
+    "date": "15/12/2023",
+    "portal": "ucpel",
+    "title": "Projeto de extensão da UCPel atende necessidades de pacientes na sala de espera da UBS",
+    "img": "https://ucpel.edu.br/laravel/public/storage/noticias/December2023/FNJA13cov2uCliFl1vDI.jpg",
+    "link": "https://ucpel.edu.br/noticias/projeto-de-extensao-da-ucpel-atende-necessidades-de-pacientes-na-sala-de-espera-da-ubs"
+  },
+  {
+    "id": 11,
+    "date": "27/11/2023",
+    "portal": "ucpel",
+    "title": "Coordenador do PPGPSDH participa de audiência no Ministério dos Povos Originários",
+    "img": "https://ucpel.edu.br/laravel/public/storage/noticias/November2023/P6BoNjEBnL5Ps5JgPfD0.png",
+    "link": "https://ucpel.edu.br/noticias/coordenador-do-ppgpsdh-participa-de-audiencia-no-ministerio-dos-povos-originarios"
+  },
+  {
+    "id": 10,
+    "date": "22/11/2023",
+    "portal": "ucpel",
+    "title": "Conheça a iNephro, incubada da Ciemsul com atendimento digital especializado em Nefrologia",
+    "img": "https://ucpel.edu.br/laravel/public/storage/noticias/November2023/ILIArogetij8QSb1Ti67.jpeg",
+    "link": "https://ucpel.edu.br/noticias/conheca-a-inephro-incubada-da-ciemsul-com-atendimento-digital-especializado-em-nefrologia-1700675381.3962"
+  },
+  {
+    "id": 9,
+    "date": "11/10/2023",
+    "portal": "ucpel",
+    "title": "LAGO/UCPel lança Manual de Ginecologia e Obstetrícia",
+    "img": "https://ucpel.edu.br/laravel/public/storage/noticias/October2023/g7TSiheAtcp4ZNXhLp8d.png",
+    "link": "https://ucpel.edu.br/noticias/lago-ucpel-lanca-manual-de-ginecologia-e-obstetricia"
+  },
+  {
+    "id": 8,
+    "date": "29/09/2023",
+    "portal": "ucpel",
+    "title": "UCPel participa mutirão de atenção à saúde da pessoa idosa em UBS",
+    "img": "https://ucpel.edu.br/laravel/public/storage/noticias/September2023/55WE8SRSK4ReChxAEVLQ.JPG",
+    "link": "https://ucpel.edu.br/noticias/ucpel-participa-mutirao-de-atencao-a-saude-da-pessoa-idosa-em-ubs"
+  },
+  {
+    "id": 7,
+    "date": "14/09/2023",
+    "portal": "ucpel",
+    "title": "Alunas da UCPel são contempladas em evento internacional",
+    "img": "https://ucpel.edu.br/laravel/public/storage/noticias/September2023/1olCPgjDXBYmjGID1bGw.jpeg",
+    "link": "https://ucpel.edu.br/noticias/alunas-da-ucpel-sao-contempladas-em-evento-internacional"
+  },
+  {
+    "id": 6,
+    "date": "21/08/2023",
+    "portal": "ucpel",
+    "title": "Programa de Extensão da UCPel realiza mais uma edição da Virada da Habitação",
+    "img": "https://ucpel.edu.br/laravel/public/storage/noticias/August2023/Fo4UEtVMktmlyB5GnxHp.JPG",
+    "link": "https://ucpel.edu.br/noticias/programa-de-extensao-da-ucpel-realiza-mais-uma-edicao-da-virada-da-habitacao"
+  },
+  {
+    "id": 5,
+    "date": "07/08/2023",
+    "portal": "ucpel",
+    "title": "UCPel e HUSFP promovem ações para o Agosto Dourado",
+    "img": "https://ucpel.edu.br/laravel/public/storage/noticias/August2023/8EW9Ke8ytvNFJ66HWTwq.png",
+    "link": "https://ucpel.edu.br/noticias/ucpel-e-husfp-promovem-acoes-para-o-agosto-dourado"
+  },
+  {
+    "id": 4,
+    "date": "25/07/2023",
+    "portal": "ucpel",
+    "title": "UCPel recebe congresso internacional para implementação das Passive House",
+    "img": "https://ucpel.edu.br/laravel/public/storage/noticias/July2023/bu6evRfiixEKSPyNiSXY.jpg",
+    "link": "https://ucpel.edu.br/noticias/ucpel-recebe-congresso-internacional-para-implementacao-das-passive-house"
+  },
+  {
+    "id": 3,
+    "date": "27/06/2023",
+    "portal": "ucpel",
+    "title": "UCPel participa de ação federal para precisão em projetos de construção",
+    "img": "https://ucpel.edu.br/laravel/public/storage/noticias/June2023/OQjlwnUYqMUa1xE2ntmH.jpg",
+    "link": "https://ucpel.edu.br/laravel/public/storage/noticias/June2023/OQjlwnUYqMUa1xE2ntmH.jpg"
+  },
+  {
+    "id": 2,
+    "date": "20/06/2023",
+    "portal": "ucpel",
+    "title": "Projeto de extensão da UCPel trata sobre saúde da comunidade LGBTQIA+",
+    "img": "https://ucpel.edu.br/laravel/public/storage/noticias/June2023/ZQWIQoVt2UHwiLw1FJdu.jpg",
+    "link": "https://ucpel.edu.br/noticias/projeto-de-extensao-da-ucpel-trata-sobre-saude-da-comunidade-lgbtqia"
+  },
+  {
+    "id": 1,
+    "date": "02/06/2023",
+    "portal": "ucpel",
+    "title": "UCPel participa da Fenadoce de 2023",
+    "img": "https://ucpel.edu.br/laravel/public/storage/noticias/June2023/BfF9XWuiZkeKFIzCHIMf.JPG",
+    "link": "https://ucpel.edu.br/noticias/ucpel-participa-da-fenadoce-de-2023"
+  },
+  {
+    "id": 0,
+    "date": "22/05/2023",
+    "portal": "ucpel",
+    "title": "Docente de Medicina da UCPel participa de evento internacional",
+    "img": "https://ucpel.edu.br/laravel/public/storage/noticias/May2023/lCrJUCLZ6cgwGuXHMzbF.jpeg",
+    "link": "https://ucpel.edu.br/noticias/docente-de-medicina-da-ucpel-participa-de-evento-internacional"
+  }
+]
