@@ -8,6 +8,7 @@ const Footer = () => {
     <footer className="p-7 text-center text-lg text-white bg-lucia-red ">
       <p>&copy;{ currentYear } { t("footer.name") } <strong>{t("footer.copy")}</strong></p>
       <p>{ t("footer.location") }</p>
+      <p className="text-[15px]"> { t("footer.politics") } </p>
     </footer>
   )
 }
