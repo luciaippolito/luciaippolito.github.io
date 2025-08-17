@@ -24,7 +24,8 @@ const About = () => {
     "/about/13.png",
     "/about/14.png",
     "/about/15.png",
-    "/about/16.png"
+    "/about/16.png",
+    "/about/17.jpg"
   ];
 
   return (
