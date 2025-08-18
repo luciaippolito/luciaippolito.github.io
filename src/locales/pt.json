@@ -10,6 +10,10 @@
                 "text": "Experiência",
                 "link": "/exp"
             },
+            "gallery": {
+                "text": "Galeria",
+                "link": "/gallery"
+            },
             "about": {
                 "text": "Sobre",
                 "link": "/about"
@@ -113,6 +117,11 @@
                 "text": "Produção de matérias, roteiros e textos para site, redes sociais e blog. Apresentação de vídeo, locução em programa de rádio e clipagem."
             }
         ]
+    },
+
+    "gallery": {
+        "title": "Galeria",
+        "text": "Registros feitos por colegas e parceiros, mostrando os bastidores e o processo criativo."
     },
 
     "about": {

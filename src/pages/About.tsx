@@ -13,20 +13,8 @@ const About = () => {
     "/about/1.png",
     "/about/2.png",
     "/about/3.png",
-    "/about/4.png",
-    "/about/5.png",
-    "/about/6.png",
-    "/about/7.png",
     "/about/8.png",
-    "/about/9.png",
-    "/about/10.png",
-    "/about/11.png",
-    "/about/12.png",
-    "/about/13.png",
-    "/about/14.png",
-    "/about/15.png",
-    "/about/16.png",
-    "/about/17.jpg"
+    "/about/7.png",
   ];
 
   return (
@@ -36,8 +24,8 @@ const About = () => {
       </div>
 
       <div className="m-7">
+        {/* Text */}
         <h1 className="mb-5 text-3xl text-center font-bold">{ t("about.title") }</h1>
-
         <div className="max-w-[950px] m-auto">
           <p className="text-justify indent-7"><strong>{ t("about.textLucia") }</strong> { t("about.text") }</p>
           <p className="mt-5 text-[20px] text-center"><strong>{ t("about.textEnd") }</strong></p>
