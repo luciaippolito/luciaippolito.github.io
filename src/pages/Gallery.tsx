@@ -9,6 +9,7 @@ const Gallery = () => {
     "/about/11.png", "/about/12.png", "/about/13.png", "/about/14.png", "/about/15.png",
     "/about/16.png", "/about/17.jpg", "/about/18.jpg", "/about/19.jpg", "/about/20.jpg", 
     "/about/21.jpg", "/about/22.jpg", "/about/23.jpg", "/about/24.jpg", "/about/25.jpg",
+    "/about/26.jpg"
   ];
 
  
