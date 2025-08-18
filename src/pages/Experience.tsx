@@ -49,7 +49,7 @@ const Experience = () => {
           <div className="flex-1">
             {/* Role in the institution and main text */}
             <p className="font-bold">{ props.role }</p>
-            <p className="text-justify">{ props.text }</p>
+            <p className="text-justify" dangerouslySetInnerHTML={{ __html: props.text }}></p>
           </div>
         </div>        
       </div>
