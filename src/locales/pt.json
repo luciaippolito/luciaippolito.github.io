@@ -23,7 +23,8 @@
             "uni": "Estudante de Jornalismo (UCPEL)",
             "communication": "Comunicação Institucional e Política",
             "production": "Produção de Conteúdo Textual e de Vídeo",
-            "desc": "Sou uma pessoa criativa, comprometida e com grande disposição para aprender e enfrentar novos desafios."
+            "desc": "Sou uma pessoa criativa, comprometida e com grande disposição para aprender e enfrentar novos desafios.",
+            "curriculum": "Meu Currículo"
         },
 
         "articles": {
@@ -95,7 +96,7 @@
                 "date": "2024 à 2025",
                 "location": "Pelotas, Rio Grande do Sul • Presencial",
                 "role": "Estagiária em Assessoria Política",
-                "text": "Produção e edição de vídeos e matérias para redes sociais e imprensa. Criação de material gráfico para diferentes tipos de plataforma e tráfego pago."
+                "text": "Produção e edição de vídeos e matérias para redes sociais e imprensa. Criação de material gráfico para diferentes tipos de plataforma e tráfego pago. Não mantenho afiliação ou vínculo partidário!"
             },
             {
                 "institution": "UCPel - Universidade Católica de Pelotas",
@@ -119,7 +120,6 @@
     "footer": {
         "name": "Lucia Ippolito.",
         "copy": "Todos os direitos reservados.",
-        "location": "Rio Grande do Sul, Brasil.",
-        "politics": "Não mantenho afiliação ou vínculo partidário."
+        "location": "Rio Grande do Sul, Brasil."
     }
 }

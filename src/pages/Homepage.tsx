@@ -57,6 +57,15 @@ const Homepage = () => {
 
           {/* Description */}
           <p className="mt-2 font-bold text-lg text-center xl:text-left">{ t("homepage.intro.desc") }</p>
+
+          <a href="https://www.canva.com/design/DAGwXOyDtBc/wpBuG1h8bjhidmI9BeIKqw/edit" target="_blank">
+            <div className="mt-10 p-2 text-2xl text-white hover:font-bold rounded-xl transition-all hover:rounded-2xl
+                          bg-lucia-brightred hover:bg-lucia-brighterred active:bg-lucia-brightred
+                          hover:shadow-[0px_0px_15px_rgba(0,0,0,0.30)]
+                          hover:cursor-pointer">
+                <p>🔗 <strong>{ t("homepage.intro.curriculum") }</strong></p>
+            </div>
+          </a>
         </div>
       </div>
 
