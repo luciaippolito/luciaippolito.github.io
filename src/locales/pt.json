@@ -110,7 +110,9 @@
 
     "about": {
         "title": "Sobre Mim",
-        "text": "Texto teste",
+        "textLucia": "Oi! Meu nome é Lucia.",
+        "text": "Sempre me considerei uma pessoa comunicativa, e o curso de Jornalismo não foi uma surpresa para quem me conhecia. A Universidade Católica de Pelotas (UCPel), além de fornecer a base do ensino, me deu a oportunidade de testar tudo aquilo que via, através do estágio que realizei no setor de comunicação da universidade. Foi lá que minha história como jornalista começou. Além da Católica, trabalhei na Câmara Municipal de Pelotas, em assessoria política e em outros trabalhos autônomos, que ampliaram os meus horizontes na profissão. Acredito que a comunicação é a base de qualquer coisa: é assim que criamos conexões e geramos histórias.",
+        "textEnd": "Estou sempre aberta a novas oportunidades e diálogos. Será um prazer conversar com você!",
         "social": "Minhas redes sociais:"
     },
 

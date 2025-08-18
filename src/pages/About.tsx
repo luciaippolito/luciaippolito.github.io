@@ -1,5 +1,6 @@
 import LinkedinLogo from "../assets/social/linkedin.png"
 import GmailLogo from "../assets/social/gmail.webp"
+import MediumLogo from "../assets/social/medium.png"
 
 import { useTranslation } from "react-i18next";
 import Carousel from "../components/about/Carousel"
@@ -35,17 +36,24 @@ const About = () => {
       </div>
 
       <div className="m-7">
-        <p className="mb-5 text-3xl text-center font-bold">{ t("about.title") }</p>
-        <p className="max-w-[950px] text-center">{ t("about.text") }</p>
+        <h1 className="mb-5 text-3xl text-center font-bold">{ t("about.title") }</h1>
 
+        <div className="max-w-[950px] m-auto">
+          <p className="text-justify indent-7"><strong>{ t("about.textLucia") }</strong> { t("about.text") }</p>
+          <p className="mt-5 text-[20px] text-center"><strong>{ t("about.textEnd") }</strong></p>
+        </div>
+
+        {/* Social Media*/}
         <p className="mt-30 text-2xl text-center"><strong>{ t("about.social") }</strong></p>
-
         <div className="m-auto mt-5 max-w-[950px] flex gap-4 justify-center">
           <a href="https://www.linkedin.com/in/aluciaippolito/" target="_blank">
             <img className="w-[100px] hover:brightness-120 hover:cursor-pointer transition-all" src={LinkedinLogo} />
           </a>
           <a href="mailto:contato.luciaippolito@gmail.com" target="_blank">
             <img className="w-[100px] hover:brightness-120 hover:cursor-pointer transition-all" src={GmailLogo} />
+          </a>
+          <a href="https://luciaippolito.medium.com/" target="_blank">
+            <img className="w-[100px] hover:contrast-80 hover:cursor-pointer transition-all" src={MediumLogo} />
           </a>
         </div>
       </div>
