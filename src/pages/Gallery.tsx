@@ -12,8 +12,6 @@ const Gallery = () => {
     "/about/26.jpg"
   ];
 
- 
-
   const { t } = useTranslation();
   const [selectedImage, setSelectedImage] = useState<number | null>(null);
   const [shuffledImageList, setShuffledImageList] = useState<string[]>([]);
